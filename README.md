@@ -4,3 +4,7 @@ Bonjour tout le monde
 
 # Ajout F1
 Message fonction F1
+
+# Ajout F2
+Message fonction F2
+
